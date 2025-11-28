@@ -11,10 +11,14 @@
             "id": "3172c41b9d6888d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "test/ssh链接推送测试.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ssh链接推送测试"
             }
           }
         ]
@@ -190,9 +194,10 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "11c61cfce9289ce0",
+  "active": "3172c41b9d6888d1",
   "lastOpenFiles": [
     "未命名.base",
+    "test/ssh链接推送测试.md",
     "test/未命名.base",
     "test/未命名.md",
     "test/assets/未命名/file-20251128111627371.png",
