@@ -11,13 +11,10 @@
             "id": "3172c41b9d6888d1",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "test/未命名.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -195,9 +192,9 @@
   },
   "active": "3172c41b9d6888d1",
   "lastOpenFiles": [
+    "test/未命名.base",
     "test/未命名.md",
     "test/assets/未命名/file-20251128111627371.png",
-    "test/未命名.base",
     "test/assets/未命名",
     "test/assets",
     "test",
