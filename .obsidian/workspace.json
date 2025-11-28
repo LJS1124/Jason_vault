@@ -11,13 +11,12 @@
             "id": "3172c41b9d6888d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-table",
               "title": "未命名"
             }
           }
@@ -174,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -185,6 +185,7 @@
   },
   "active": "3172c41b9d6888d1",
   "lastOpenFiles": [
-    "未命名.md"
+    "未命名.md",
+    "未命名.base"
   ]
 }
