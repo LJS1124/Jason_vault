@@ -13,7 +13,7 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "未命名.base",
+                "file": "test/未命名.base",
                 "viewName": "表格"
               },
               "icon": "lucide-table",
@@ -185,7 +185,14 @@
   },
   "active": "3172c41b9d6888d1",
   "lastOpenFiles": [
-    "未命名.md",
-    "未命名.base"
+    "test/未命名.md",
+    "test/assets/未命名/file-20251128111627371.png",
+    "test/未命名.base",
+    "test/assets/未命名",
+    "test/assets",
+    "test",
+    "python笔记",
+    "assets/未命名",
+    "assets"
   ]
 }
