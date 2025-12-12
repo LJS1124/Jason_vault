@@ -11,10 +11,14 @@
             "id": "3172c41b9d6888d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "NLP/知识图谱构建/SSH隧道链接.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSH隧道链接"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,6 +197,10 @@
   },
   "active": "3172c41b9d6888d1",
   "lastOpenFiles": [
+    "NLP/知识图谱构建/SSH隧道链接.md",
+    "NLP/知识图谱构建",
+    "未命名",
+    "NLP",
     "未命名.base",
     "未命名.canvas",
     "Excalidraw/Drawing 2025-12-05 21.38.02.excalidraw.md",
@@ -208,8 +215,6 @@
     "test/assets/未命名",
     "test/assets",
     "test",
-    "python笔记",
-    "assets/未命名",
-    "assets"
+    "python笔记"
   ]
 }
